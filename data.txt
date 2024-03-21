@@ -1,0 +1,3 @@
+Name: Arale
+Age: 33
+Favorit Color: blue
